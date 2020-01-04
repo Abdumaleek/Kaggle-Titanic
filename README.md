@@ -15,7 +15,7 @@ Titanic 승객에 대한 정보는 다음과 같이 주어진다.
 
 - Age
 
-- Parch
+- Parch: 부모님, 자녀 수(동승자만)
 
 - Pclass
 
@@ -27,7 +27,7 @@ Titanic 승객에 대한 정보는 다음과 같이 주어진다.
 
 - Name
 
-- SibSp
+- SibSp: 형재,자매,배우자 수(동승자만)
 
 - Fare
 
