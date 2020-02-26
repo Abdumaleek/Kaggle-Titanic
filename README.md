@@ -34,9 +34,9 @@ Titanic 승객에 대한 정보는 다음과 같이 주어진다.
 - Survived(train에만)
 
 ----------------------------
-### New_Titanic1
+### New Titanic1
 - 초기 분석 내용
 
 -------------------------------
-### New_Titanic2
+### New Titanic2
 - 현재 진행하고 있는 분석 
