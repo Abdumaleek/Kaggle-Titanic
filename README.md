@@ -46,4 +46,4 @@ Titanic 승객에 대한 정보는 다음과 같이 주어진다.
 
 ### Titanic_DL
 - result.xlsx : 모델, 학습에 대한 정보와 결과
-- Titanic_DL.ipynb : 딥러닝 모델 및 학습 관련 코드
+- Titanic_DL.ipynb : 딥러닝 모델 및 학습 관련 코드와 새로운 분석 내용
