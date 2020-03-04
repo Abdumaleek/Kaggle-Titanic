@@ -33,13 +33,17 @@ Titanic 승객에 대한 정보는 다음과 같이 주어진다.
 
 - Survived(train에만)
 ----------------
-### Titanic
+### Titanic.ipynb
 - 예전 분석 내용
 
 ----------------------------
-### New Titanic1
+### New Titanic1.ipynb
 - (새로 시작한)초기 분석 내용
 
 -------------------------------
-### New Titanic2
+### New Titanic2.ipynb
 - 현재 진행하고 있는 분석 내용
+
+### Titanic_DL
+- result.xlsx : 모델, 학습에 대한 정보와 결과
+- Titanic_DL.ipynb : 딥러닝 모델 및 학습 관련 코드
