@@ -1,4 +1,10 @@
-<strong>*만약 위 파일의 로딩에 실패한다면-> https://nbviewer.jupyter.org/github/PingPingE/Kaggle-Titanic/blob/master/파일명.ipynb</strong>
+*만약 위 파일의 로딩에 실패한다면
+  
+- [New Titanic1](https://nbviewer.jupyter.org/github/PingPingE/Kaggle-Titanic/blob/master/New_Titanic1.ipynb)
+- [New Titanic2](https://nbviewer.jupyter.org/github/PingPingE/Kaggle-Titanic/blob/master/New_Titanic2.ipynb)
+- [New Titanic3](https://nbviewer.jupyter.org/github/PingPingE/Kaggle-Titanic/blob/master/New_Titanic3.ipynb)
+- [Titanic](https://nbviewer.jupyter.org/github/PingPingE/Kaggle-Titanic/blob/master/Titanic.ipynb)
+
 # Kaggle-Titanic (2019.11.18~ )
 
 #### 예전에 참여했을 때 79.425점을 기록했다. 좀 더 정밀한 분석과 함께 이론 공부를 하고자 다시 도전한다.
